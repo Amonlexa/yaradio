@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aec371b9-0582-4fc3-b2e6-5edcb408410d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/enums/StateAudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/interfaces/SelectListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/interfaces/SelectListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/model/RadioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/models/RadioModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/service/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/service/Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/service/MyMediaPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/service/MyMediaPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/service/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/service/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/Assistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/Assistant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/support/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/activity/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/activity/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/activity/StreamRadioActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/activity/StreamRadioActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/adapter/RadioAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/adapter/RadioAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/fragment/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/amonlexasoftware/yaradio/ui/fragment/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/card_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_stop_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/item_circle_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/signal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash_theme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/suntaar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/text_splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/viktoria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ys3qFxMJ0GQ3gFTL5d2pvr9ypT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec371b9-0582-4fc3-b2e6-5edcb408410d" name="Changes" comment="" />
+      <created>1750609643738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750609643738</updated>
+    </task>
+    <servers />
+  </component>
+</project>

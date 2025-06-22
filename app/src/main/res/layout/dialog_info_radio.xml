@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        app:cardCornerRadius="30dp">
+
+
+        <RelativeLayout
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:background="#FF9A00"
+            android:layout_height="wrap_content">
+
+            <ScrollView
+                android:id="@+id/scrollDialog"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_margin="15dp">
+
+                <TextView
+                    android:id="@+id/txtDescpRadioDial"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:text="На основе архивных материалов и печатных источников исследуется история создания Якутского регионального радиовещания, где значение выхода в эфир первых радиопередач определялось новой для ноября 1930 г. ролью основного технического средства для передачи информации на территории Якутской АССР. Повсеместное участие местных общественных организаций и производственных коллективов объединило жителей северного края в подготовке к такому знаменательному событию. При этом историческое явление нового технического достижения вызвало интерес у неграмотного населения и на многие десятилетия открыло для него многообразие познавательно-выразительных, информационно-интеллектуальных возможностей радиовещания как достоверного, доступного и оперативного средства."/>
+
+
+            </ScrollView>
+
+
+
+            <Button
+                android:id="@+id/btnCloseDialog"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/scrollDialog"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/item_circle_15"
+                android:backgroundTint="#FFAB00"
+                android:text="Закрыть"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

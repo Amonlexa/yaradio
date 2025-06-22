@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config >
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">icecast-saha.cdnvideo.ru</domain>
+        <domain includeSubdomains="true">dolgunfm.ru</domain>
+        <domain includeSubdomains="true">sakhafm.ru</domain>
+        <domain includeSubdomains="true">37.139.33.202/</domain>
+    </domain-config>
+</network-security-config>
